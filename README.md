@@ -1,1 +1,1 @@
-# prog1-tutorials-ws25-26
+# [WS25/26] Programmieren I – Tutorials
